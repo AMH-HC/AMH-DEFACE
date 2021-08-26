@@ -11,6 +11,8 @@ pkg install git
 
 git clone https://github.com/AMH-HC/AMH-DEFACE/
 
+ls
+
 cd AMH-DEFACE
 
 python2 amhdeface.py
