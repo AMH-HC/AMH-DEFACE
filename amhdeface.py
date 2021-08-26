@@ -1,4 +1,5 @@
-#-*- coding: utf-8 -*- try: import requests import os.path import sysexcept ImportError: exit("install requests and try again ...") banner = """ ╔═════════════════╗
+#-*- coding: utf-8 -*- try: import requests import os.path import sysexcept ImportError: exit("install requests and try again ...") banner = """ 
+╔═════════════════╗
 ╚═══█════█══█═█══█═
 ╔══██═══█═█═█═████═
 ╚═█═█══█════█═█ ══█═
