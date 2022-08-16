@@ -17,3 +17,9 @@ cd AMH-DEFACE
 ls
 
 python2 amhdeface.py
+
+Or
+
+python2 amhdeface.py1
+
+
